@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#b8b8b8',
   },
   inputBox: {
-    marginTop: 60,
+    marginTop: 80,
     width: '80%',
     alignSelf: 'center',
     height: 40,
@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
   },
   goButton: {
     width: '50%',
-    height: 55,
+    height: 100,
     alignSelf: 'center',
     padding: 10,
     margin: 10,
@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
   },
   imageIcon: {
     width: 150,
-    height: 150,
+    height: 100,
     marginLeft: 100,
   }
 });
